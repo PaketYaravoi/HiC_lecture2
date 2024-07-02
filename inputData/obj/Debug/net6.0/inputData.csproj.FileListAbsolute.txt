@@ -1,0 +1,15 @@
+C:\GeekBrains\Знакомство с яз-ми про-я\CSharp\lecture\les2_function and array\inputData\obj\Debug\net6.0\inputData.csproj.AssemblyReference.cache
+C:\GeekBrains\Знакомство с яз-ми про-я\CSharp\lecture\les2_function and array\inputData\obj\Debug\net6.0\inputData.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Знакомство с яз-ми про-я\CSharp\lecture\les2_function and array\inputData\obj\Debug\net6.0\inputData.AssemblyInfoInputs.cache
+C:\GeekBrains\Знакомство с яз-ми про-я\CSharp\lecture\les2_function and array\inputData\obj\Debug\net6.0\inputData.AssemblyInfo.cs
+C:\GeekBrains\Знакомство с яз-ми про-я\CSharp\lecture\les2_function and array\inputData\obj\Debug\net6.0\inputData.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Знакомство с яз-ми про-я\CSharp\lecture\les2_function and array\inputData\bin\Debug\net6.0\inputData.exe
+C:\GeekBrains\Знакомство с яз-ми про-я\CSharp\lecture\les2_function and array\inputData\bin\Debug\net6.0\inputData.deps.json
+C:\GeekBrains\Знакомство с яз-ми про-я\CSharp\lecture\les2_function and array\inputData\bin\Debug\net6.0\inputData.runtimeconfig.json
+C:\GeekBrains\Знакомство с яз-ми про-я\CSharp\lecture\les2_function and array\inputData\bin\Debug\net6.0\inputData.dll
+C:\GeekBrains\Знакомство с яз-ми про-я\CSharp\lecture\les2_function and array\inputData\bin\Debug\net6.0\inputData.pdb
+C:\GeekBrains\Знакомство с яз-ми про-я\CSharp\lecture\les2_function and array\inputData\obj\Debug\net6.0\inputData.dll
+C:\GeekBrains\Знакомство с яз-ми про-я\CSharp\lecture\les2_function and array\inputData\obj\Debug\net6.0\refint\inputData.dll
+C:\GeekBrains\Знакомство с яз-ми про-я\CSharp\lecture\les2_function and array\inputData\obj\Debug\net6.0\inputData.pdb
+C:\GeekBrains\Знакомство с яз-ми про-я\CSharp\lecture\les2_function and array\inputData\obj\Debug\net6.0\inputData.genruntimeconfig.cache
+C:\GeekBrains\Знакомство с яз-ми про-я\CSharp\lecture\les2_function and array\inputData\obj\Debug\net6.0\ref\inputData.dll
