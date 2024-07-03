@@ -1,0 +1,15 @@
+C:\GeekBrains\Знакомство с яз-ми про-я\CSharp\lecture\les2_function and array\mabyArray\bin\Debug\net6.0\mabyArray.exe
+C:\GeekBrains\Знакомство с яз-ми про-я\CSharp\lecture\les2_function and array\mabyArray\bin\Debug\net6.0\mabyArray.deps.json
+C:\GeekBrains\Знакомство с яз-ми про-я\CSharp\lecture\les2_function and array\mabyArray\bin\Debug\net6.0\mabyArray.runtimeconfig.json
+C:\GeekBrains\Знакомство с яз-ми про-я\CSharp\lecture\les2_function and array\mabyArray\bin\Debug\net6.0\mabyArray.dll
+C:\GeekBrains\Знакомство с яз-ми про-я\CSharp\lecture\les2_function and array\mabyArray\bin\Debug\net6.0\mabyArray.pdb
+C:\GeekBrains\Знакомство с яз-ми про-я\CSharp\lecture\les2_function and array\mabyArray\obj\Debug\net6.0\mabyArray.csproj.AssemblyReference.cache
+C:\GeekBrains\Знакомство с яз-ми про-я\CSharp\lecture\les2_function and array\mabyArray\obj\Debug\net6.0\mabyArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Знакомство с яз-ми про-я\CSharp\lecture\les2_function and array\mabyArray\obj\Debug\net6.0\mabyArray.AssemblyInfoInputs.cache
+C:\GeekBrains\Знакомство с яз-ми про-я\CSharp\lecture\les2_function and array\mabyArray\obj\Debug\net6.0\mabyArray.AssemblyInfo.cs
+C:\GeekBrains\Знакомство с яз-ми про-я\CSharp\lecture\les2_function and array\mabyArray\obj\Debug\net6.0\mabyArray.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Знакомство с яз-ми про-я\CSharp\lecture\les2_function and array\mabyArray\obj\Debug\net6.0\mabyArray.dll
+C:\GeekBrains\Знакомство с яз-ми про-я\CSharp\lecture\les2_function and array\mabyArray\obj\Debug\net6.0\refint\mabyArray.dll
+C:\GeekBrains\Знакомство с яз-ми про-я\CSharp\lecture\les2_function and array\mabyArray\obj\Debug\net6.0\mabyArray.pdb
+C:\GeekBrains\Знакомство с яз-ми про-я\CSharp\lecture\les2_function and array\mabyArray\obj\Debug\net6.0\mabyArray.genruntimeconfig.cache
+C:\GeekBrains\Знакомство с яз-ми про-я\CSharp\lecture\les2_function and array\mabyArray\obj\Debug\net6.0\ref\mabyArray.dll
